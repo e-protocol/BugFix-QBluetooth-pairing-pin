@@ -11,8 +11,8 @@ with pairing devices with 4-digit pin (i.e. 0000/1234). Just follow the
 instructions below.
 
 Instructions:
-1) Download QtBluetoothBroadcastReceiver.java from my profile on GitHub - Portable Climate Sensor
-https://github.com/e-protocol
+1) Download QtBluetoothBroadcastReceiver.java from GitHub
+https://github.com/e-protocol/BugFix-QBluetooth-pairing-pin
 2) Replace original file. In my Linux OS location:
 /opt/Qt5.12.3/5.12.3/Src/qtconnectivity/src/android/bluetooth/src/org/qtproject/qt5/android/bluetooth
 3) Open bluetooth.pro as a project in Qt. In my Linux OS location:
