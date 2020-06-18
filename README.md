@@ -5,6 +5,10 @@ https://github.com/e-protocol
 
 Bug fix: QBluetooth pairing pin failure with user input
 
+Platform: Android
+Qt Creator version 5.3.12
+Build under OS Linux
+
 Description: 
 Includes QtBluetoothBroadcastReceiver (java) file - required for fixing bug 
 with pairing devices with 4-digit pin (i.e. 0000/1234). Just follow the 
