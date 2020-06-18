@@ -23,4 +23,4 @@ https://github.com/e-protocol/BugFix-QBluetooth-pairing-pin
 3) Open bluetooth.pro as a project in Qt. In my Linux OS location:
 /opt/Qt5.12.3/5.12.3/Src/qtconnectivity/src/android/bluetooth
 4) Choose required build for your current Android version. 
-5) Build release and be happy! Now you can make pair with any Bluetooth device.
+5) Build release and be happy! Now you can use QBluetooth lib and pair with any bluetooth device
