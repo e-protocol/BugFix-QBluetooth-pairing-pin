@@ -6,6 +6,7 @@ https://github.com/e-protocol
 Bug fix: QBluetooth pairing pin failure with user input
 
 Platform: Android
+
 IDE: Qt Creator version 5.3.12
 Build under OS Linux
 
